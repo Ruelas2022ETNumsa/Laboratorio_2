@@ -1,6 +1,6 @@
 /*   ----------------------------------------------------------------
    |   Nombre:   Univ. Ruelas Machicado Mijahel Alexander            |
-   |   Materia:  Laboratotio de computaion ( ETN307 )                |
+   |   Materia:  Laboratotio de programacion ( ETN307 )              |
     -----------------------------------------------------------------
       Crear un programa capapaz dividir polinomios con el metodo Horner
 */
