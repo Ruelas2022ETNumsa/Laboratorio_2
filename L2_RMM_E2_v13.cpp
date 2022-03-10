@@ -1,6 +1,6 @@
 /*   ----------------------------------------------------------------
    |   Nombre:   Univ. Ruelas Machicado Mijahel Alexander            |
-   |   Materia:  Laboratotio de computaion ( ETN307 )                |
+   |   Materia:  Laboratotio de programacion ( ETN307 )              |
     -----------------------------------------------------------------
       Crear un programa capapaz de calcular la Determinante de una
 	 Matriz de Vandermonde
