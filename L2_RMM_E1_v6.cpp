@@ -1,9 +1,9 @@
 /*   ----------------------------------------------------------------
    |   Nombre:   Univ. Ruelas Machicado Mijahel Alexander            |
-   |   Materia:  Laboratotio de computaion ( ETN307 )                |
+   |   Materia:  Laboratotio de programacion ( ETN307 )              |
     -----------------------------------------------------------------
       Crear un programa capapaz de resolver problemas trigonometricos
-     con 3 datos que el usuario ingrese. Luego calcular el Area,
+      con 3 datos que el usuario ingrese. Luego calcular el Area,
 	 Perimetro y las medianas de dicho triangulo.
 */
 #include<iostream>
